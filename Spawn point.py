@@ -1,7 +1,7 @@
 from mcpi.minecraft import Minecraft
 mc = Minecraft.create()
 
-"""Dont forget to put in your OWN coordinates!"""
+"""Don`t forget to put in your OWN coordinates!"""
 x = 61
 y = 1
 z = 99
